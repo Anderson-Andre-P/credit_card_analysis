@@ -1,5 +1,7 @@
 # credit_card_analysis
 
+kaggle datasets download -d arjunbhasin2013/ccdata
+
 ### Below are all the features in the dataset:
 
 * CUST_ID: Unique identification number of the customer
