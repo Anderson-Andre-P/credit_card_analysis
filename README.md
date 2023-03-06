@@ -1,8 +1,10 @@
-# credit_card_analysis
+# Credit Card Analysis With Clustering
 
-kaggle datasets download -d arjunbhasin2013/ccdata
+Credit card clustering means grouping credit card holders based on their buying habits, credit limits, and many more financial factors. It is also known as credit card segmentation. Such clustering analysis helps businesses find their potential customers and many more marketing strategies.
 
-### Below are all the features in the dataset:
+To do the analysis I needed a dataset with a set of data based on a person's credit card purchase history. You can see the dataset in `kaggle datasets download -d arjunbhasin2013/ccdata`. 
+
+## Below are all the features in the dataset:
 
 * CUST_ID: Unique identification number of the customer
 * BALANCE: Balance in the bank account of the customer
